@@ -11,8 +11,8 @@ Also at these places on the official website:
 http://www.lejos.org/nxt/nxj/tutorial/Preliminaries/GettingStartedWindows.htm
 http://www.lejos.org/nxt/nxj/tutorial/Preliminaries/UsingEclipse.htm
 
-Load the PCApp project into eclipse as a leJOS NXT project,
-and the NXTProgram project into eclipse as a leJOS PC project.
+Load the PCApp project into eclipse as a leJOS PC project,
+and the NXTProgram project into eclipse as a leJOS NXT project.
 
 The difference between these and how to set them up is explained in the
 'Using Eclipse' tutorial above.
